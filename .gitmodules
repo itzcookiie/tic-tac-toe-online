@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/itzcookiie/tic-tac-toe-online-backend/tree/heroku
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/itzcookiie/tic-tac-toe-online-frontend/tree/develop-websocket
